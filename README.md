@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development & AI Engineering<br>👯 I’m looking to collaborate on Open-source projects related to Deep Reinforcement Learning<br>🤝 I’m looking for help with Optimizing deployment pipelines<br>🌱 I’m currently learning Deep Reinforcement Learning, Machine Learning, and System Design.<br>💬 Ask me about HTML, CSS, JavaScript, Node.js, React.js and Clean Architecture<br>⚡ Fun fact I can analyze a complex system architecture for hours
+🔭 I’m currently working on Full Stack Development & AI Engineering<br>👯 I’m looking to collaborate on Open-source projects related to Software Development, Machine Learning and AI<br>🤝 I’m looking for help with Optimizing deployment pipelines<br>🌱 I’m currently learning Deep Reinforcement Learning, Machine Learning, and System Design.<br>💬 Ask me about HTML, CSS, JavaScript, Node.js, React.js and Clean Architecture<br>⚡ Fun fact I can analyze a complex system architecture for hours
 
 
 ## 🌐 Socials:
